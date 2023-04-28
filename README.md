@@ -93,11 +93,11 @@ User Story 3: As a Director, I need to be able to remove an employee
 from a position, leaving a vacant position in the hierarchy. I then need
 to see an updated organization view, as described in User Story 1.
 
-User Story 4: As a Managing director, I need to add a new Manager
+User Story 4: As a Director, I need to add a new Manager
 position beneath an existing Senior Manager. I then need to see an
 updated organization view, as described in User Story 1.
 
-User Story 5: As a Managing director, I need to associate a new employee
+User Story 5: As a Director, I need to associate a new employee
 with a vacant position. I then need to see an updated organization view,
 as described in User Story 1.
 
